@@ -1,0 +1,30 @@
+[
+  {
+    "candidateId": 1,
+    "applicationId": 101,
+    "fullName": "Juan Pérez",
+    "currentInterviewStep": "Solicitud",
+    "averageScore": 3
+  },
+  {
+    "candidateId": 2,
+    "applicationId": 102,
+    "fullName": "María Rodríguez",
+    "currentInterviewStep": "Entrevista Técnica",
+    "averageScore": 4
+  },
+  {
+    "candidateId": 3,
+    "applicationId": 103,
+    "fullName": "Carlos López",
+    "currentInterviewStep": "Prueba Técnica",
+    "averageScore": 5
+  },
+  {
+    "candidateId": 4,
+    "applicationId": 104,
+    "fullName": "Ana Gómez",
+    "currentInterviewStep": "Oferta",
+    "averageScore": 5
+  }
+] 
